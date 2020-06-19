@@ -64,9 +64,9 @@ class Home extends Component {
           <Col size="md-12">
             <Jumbotron>
               <h1 className="text-center">
-                <strong>Feed your appetite for knowledge with this Books Search</strong>
+                <strong>Book Search Mania</strong>
               </h1>
-              <h2 className="text-center">Search for and Save Books of Interest.</h2>
+              <h2 className="text-center">search for and save your favorite books</h2>
             </Jumbotron>
           </Col>
           <Col size="md-12">

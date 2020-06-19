@@ -1,0 +1,60 @@
+body {
+    /* padding: 100px; */
+    background-color: rgb(104, 159, 38);
+    color: whitesmoke;
+    -webkit-text-stroke: .05px black !important;
+  }
+
+.text-center{
+    color: goldenrod;
+}
+
+h1 {
+font-size: 475%;
+-webkit-text-stroke: .25px black !important;
+font-weight: bolder;
+}
+
+h2 {
+    font-size: 300%;
+    -webkit-text-stroke: .75px black !important;
+}
+
+.navbar {
+background-color: gray !important;
+color: goldenrod !important;
+}
+
+.card{
+background-color: gray !important;  
+}
+.card-header{
+background-color: darkslategray !important;  
+}
+
+a {
+    -webkit-text-stroke: .5px black;
+    color: goldenrod !important;
+}
+
+.nav-link{
+    font-size: x-large;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+button {
+    background-color: rgb(50, 82, 50) !important;
+    color: goldenrod !important;
+}
+
+label {
+    font-size: large;
+}
+
+input {
+    color: black !important;
+    font-size: x-large !important;
+}
