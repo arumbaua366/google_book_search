@@ -1,0 +1,8 @@
+.jumbotron {
+    padding: 100px;
+    background-color: gray;
+    border-color: whitesmoke;
+    border: outset;
+    border-color: whitesmoke;
+    box-shadow: -5px 5px 5px grey;
+  }
