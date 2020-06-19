@@ -1,5 +1,5 @@
 # Project Title
-Happy Nappers
+Google Book Search
 
 # User Story
 As an avid reader, I would like an easy way to search for books specifically without having to muddle through a bunch of google searches.
