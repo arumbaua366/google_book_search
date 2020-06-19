@@ -12,6 +12,7 @@
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
+  "homepage": "https://arumbaua366.github.io/google_book_search/",
   "author": "",
   "license": "ISC",
   "devDependencies": {
